@@ -1,10 +1,12 @@
 [win]
-每6个小时自动连接东信北邮网络，其中可以通过修改set INTERVAL= 21600参数来修改自动连接的时间，单位为秒
+每1个小时自动连接东信北邮网络，其中可以通过修改run.bat文件中的set INTERVAL= 3600参数来修改自动连接的时间，单位为秒
 
-1，auto_connect_network.py文件修改自己的账号密码，第29行auth_user后面参数改为自己的用户名，auth_pass修改为每周的密码，
+1，auto_connect_network.py文件修改自己的账号密码，
+第29行auth_user后面参数改为自己的用户名，auth_pass修改为每周的密码，
 密码每周会换，后续优化是如何通过远程自动修改为每周更新的密码，发送post请求后的数据会存储在log.txt
 2，双击运行run.bat文件，不能关闭该窗口
-4，（可选）运行background_run.vbs后台运行文件，我没有测试不知道行不行
+3，（可选）运行background_run.vbs后台运行文件，我没有测试不知道行不行
+
 [linux]
 1,可以后台直接运行script.py脚本
 环境需要：
@@ -16,7 +18,7 @@ nohup python3 script.py -u zhoud -p qeff31sa &
 -u 用户名（改成自己的）
 -p 密码（每周记得修改）
 
-[优化]
+[跟随系统自带重启]
 1，让run.bat脚本跟随电脑重启时自动启动脚本，防止win10自动更新
 https://jingyan.baidu.com/article/9989c746fafee2f648ecfe2c.html Win10如何将程序加入启动项 程序怎么随系统启动
     （1）windows键+r进行命令行窗口，然后输入shell:startup会跳转到一个文件夹，
