@@ -6,10 +6,11 @@
 2，双击运行run.bat文件，不能关闭该窗口
 4，（可选）运行background_run.vbs后台运行文件，我没有测试不知道行不行
 [linux]
-1,直接使用script.py脚本
+1,可以后台直接运行script.py脚本
 环境需要：
 python3、request、tdqm、argparse、time
-使用方式 python3 script.py -u zhoud -p qeff31sa
+使用方式
+nohup python3 script.py -u zhoud -p qeff31sa &
 -t 表示每隔多少秒连接一次网络，默认为3600秒
 -r 与-t联合使用，默认为True,即循环调用post请求连接网络
 -u 用户名（改成自己的）
