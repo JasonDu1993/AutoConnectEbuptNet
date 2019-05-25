@@ -44,8 +44,8 @@ def login(user, password):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("-t", "--time", type=int, default=3600)
-    parser.add_argument("-u", "--user", type=str, default="zhoudu")
-    parser.add_argument("-p", "--password", type=str, default="p9N02StS")
+    parser.add_argument("-u", "--user", type=str, default="***")
+    parser.add_argument("-p", "--password", type=str, default="***")
     parser.add_argument("-r", "--recurrent", default=True)
     args = parser.parse_args()
     internal = args.time

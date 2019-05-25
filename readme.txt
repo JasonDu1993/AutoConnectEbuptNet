@@ -12,7 +12,7 @@
 环境需要：
 python3、request、tdqm、argparse、time
 使用方式
-nohup python3 script.py -u zhoud -p qeff31sa &
+nohup python3 script.py -u *** -p *** &
 -t 表示每隔多少秒连接一次网络，默认为3600秒
 -r 与-t联合使用，默认为True,即循环调用post请求连接网络
 -u 用户名（改成自己的）

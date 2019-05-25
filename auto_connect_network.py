@@ -26,7 +26,7 @@ def login():
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'}
     s = requests.Session()
     s.headers = headers
-    post_data = {'auth_user': 'zhoudu', 'auth_pass': 'p9N02StS', 'redirurl': "http://www.ebupt.com/",
+    post_data = {'auth_user': '***', 'auth_pass': '***', 'redirurl': "http://www.ebupt.com/",
                  'accept': '登录'}
     r = s.post('http://10.1.1.7:8002/index.php?zone=cpzone', data=post_data)
     print(r.text)
