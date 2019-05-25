@@ -1,0 +1,248 @@
+run time:2019_0525_132712<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>EB网络认证</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+
+<div align="center" style="border:dotted">
+<h2>网络认证</h2>
+<h3 style="color:#F00">$</h3>
+<form method="post" action="$PORTAL_ACTION$">
+<table>
+<tr><td colspan="2"><h3>员工专用</h3></td></tr>
+<tr><td>VPN帐号:</td><td><input name="auth_user" type="text"></td></tr>
+   <tr><td>VPN密码:</td><td><input name="auth_pass" type="password"></td></tr>
+   <tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+<br/>
+<form method="post" action="$PORTAL_ACTION$">
+ <table>
+<tr><td colspan="2"><h3>访客专用</h3></td></tr>
+<tr><td>访客密码:</td><td><input name="auth_voucher" type="text"></td></tr>
+<tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+</div>
+</body>
+</html>log in, status = 200
+------------------------------------------------------------
+run time:2019_0525_132722<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>EB网络认证</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+
+<div align="center" style="border:dotted">
+<h2>网络认证</h2>
+<h3 style="color:#F00">$</h3>
+<form method="post" action="$PORTAL_ACTION$">
+<table>
+<tr><td colspan="2"><h3>员工专用</h3></td></tr>
+<tr><td>VPN帐号:</td><td><input name="auth_user" type="text"></td></tr>
+   <tr><td>VPN密码:</td><td><input name="auth_pass" type="password"></td></tr>
+   <tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+<br/>
+<form method="post" action="$PORTAL_ACTION$">
+ <table>
+<tr><td colspan="2"><h3>访客专用</h3></td></tr>
+<tr><td>访客密码:</td><td><input name="auth_voucher" type="text"></td></tr>
+<tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+</div>
+</body>
+</html>log in, status = 200
+------------------------------------------------------------
+run time:2019_0525_132732<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>EB网络认证</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+
+<div align="center" style="border:dotted">
+<h2>网络认证</h2>
+<h3 style="color:#F00">$</h3>
+<form method="post" action="$PORTAL_ACTION$">
+<table>
+<tr><td colspan="2"><h3>员工专用</h3></td></tr>
+<tr><td>VPN帐号:</td><td><input name="auth_user" type="text"></td></tr>
+   <tr><td>VPN密码:</td><td><input name="auth_pass" type="password"></td></tr>
+   <tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+<br/>
+<form method="post" action="$PORTAL_ACTION$">
+ <table>
+<tr><td colspan="2"><h3>访客专用</h3></td></tr>
+<tr><td>访客密码:</td><td><input name="auth_voucher" type="text"></td></tr>
+<tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+</div>
+</body>
+</html>log in, status = 200
+------------------------------------------------------------
+run time:2019_0525_132742<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>EB网络认证</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+
+<div align="center" style="border:dotted">
+<h2>网络认证</h2>
+<h3 style="color:#F00">$</h3>
+<form method="post" action="$PORTAL_ACTION$">
+<table>
+<tr><td colspan="2"><h3>员工专用</h3></td></tr>
+<tr><td>VPN帐号:</td><td><input name="auth_user" type="text"></td></tr>
+   <tr><td>VPN密码:</td><td><input name="auth_pass" type="password"></td></tr>
+   <tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+<br/>
+<form method="post" action="$PORTAL_ACTION$">
+ <table>
+<tr><td colspan="2"><h3>访客专用</h3></td></tr>
+<tr><td>访客密码:</td><td><input name="auth_voucher" type="text"></td></tr>
+<tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+</div>
+</body>
+</html>log in, status = 200
+------------------------------------------------------------
+run time:2019_0525_132752<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>EB网络认证</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+
+<div align="center" style="border:dotted">
+<h2>网络认证</h2>
+<h3 style="color:#F00">$</h3>
+<form method="post" action="$PORTAL_ACTION$">
+<table>
+<tr><td colspan="2"><h3>员工专用</h3></td></tr>
+<tr><td>VPN帐号:</td><td><input name="auth_user" type="text"></td></tr>
+   <tr><td>VPN密码:</td><td><input name="auth_pass" type="password"></td></tr>
+   <tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+<br/>
+<form method="post" action="$PORTAL_ACTION$">
+ <table>
+<tr><td colspan="2"><h3>访客专用</h3></td></tr>
+<tr><td>访客密码:</td><td><input name="auth_voucher" type="text"></td></tr>
+<tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+</div>
+</body>
+</html>log in, status = 200
+------------------------------------------------------------
+run time:2019_0525_133354<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>EB网络认证</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+
+<div align="center" style="border:dotted">
+<h2>网络认证</h2>
+<h3 style="color:#F00">$</h3>
+<form method="post" action="$PORTAL_ACTION$">
+<table>
+<tr><td colspan="2"><h3>员工专用</h3></td></tr>
+<tr><td>VPN帐号:</td><td><input name="auth_user" type="text"></td></tr>
+   <tr><td>VPN密码:</td><td><input name="auth_pass" type="password"></td></tr>
+   <tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+<br/>
+<form method="post" action="$PORTAL_ACTION$">
+ <table>
+<tr><td colspan="2"><h3>访客专用</h3></td></tr>
+<tr><td>访客密码:</td><td><input name="auth_voucher" type="text"></td></tr>
+<tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+</div>
+</body>
+</html>log in, status = 200
+------------------------------------------------------------
+run time:2019_0525_133404<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>EB网络认证</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+
+<div align="center" style="border:dotted">
+<h2>网络认证</h2>
+<h3 style="color:#F00">$</h3>
+<form method="post" action="$PORTAL_ACTION$">
+<table>
+<tr><td colspan="2"><h3>员工专用</h3></td></tr>
+<tr><td>VPN帐号:</td><td><input name="auth_user" type="text"></td></tr>
+   <tr><td>VPN密码:</td><td><input name="auth_pass" type="password"></td></tr>
+   <tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+<br/>
+<form method="post" action="$PORTAL_ACTION$">
+ <table>
+<tr><td colspan="2"><h3>访客专用</h3></td></tr>
+<tr><td>访客密码:</td><td><input name="auth_voucher" type="text"></td></tr>
+<tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+</div>
+</body>
+</html>log in, status = 200
+------------------------------------------------------------
+run time:2019_0525_134123<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>EB网络认证</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+
+<div align="center" style="border:dotted">
+<h2>网络认证</h2>
+<h3 style="color:#F00">$</h3>
+<form method="post" action="$PORTAL_ACTION$">
+<table>
+<tr><td colspan="2"><h3>员工专用</h3></td></tr>
+<tr><td>VPN帐号:</td><td><input name="auth_user" type="text"></td></tr>
+   <tr><td>VPN密码:</td><td><input name="auth_pass" type="password"></td></tr>
+   <tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+<br/>
+<form method="post" action="$PORTAL_ACTION$">
+ <table>
+<tr><td colspan="2"><h3>访客专用</h3></td></tr>
+<tr><td>访客密码:</td><td><input name="auth_voucher" type="text"></td></tr>
+<tr><td colspan="2">&nbsp;<input name="redirurl" type="hidden" value="$PORTAL_REDIRURL$"><input name="accept" type="submit" value="登录"></td></tr>
+ </table>
+</form>
+</div>
+</body>
+</html>log in, status = 200
+------------------------------------------------------------
